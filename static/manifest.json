@@ -1,0 +1,20 @@
+{
+  "name": "铁定行",
+  "short_name": "铁定行",
+  "icons": [
+    {
+      "src": "/static/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#0081ea",
+  "theme_color": "#0081ea"
+}
