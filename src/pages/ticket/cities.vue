@@ -108,7 +108,7 @@ export default {
       },
       navs: [
         '历史',
-        '常用',
+        '常用'
         ...this.makeWords()
       ]
     }
